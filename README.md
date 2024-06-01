@@ -63,6 +63,4 @@ From this screen, you can change the position of the already visible objects, ro
 4. Run the app on the simulator or real device
 5. Enjoy it!
 
-## License
 
-MIT
